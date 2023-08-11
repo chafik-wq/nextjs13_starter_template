@@ -15,5 +15,6 @@ A nextjs 13 ( app directory ) with tailwind , next-intl ( i18n ) & redux
 - HTML isn't a programming language
 - And the last one is that you should give me a star , please 😭
 
+
 </br>
 And for more cool readme.md like this give me a star
